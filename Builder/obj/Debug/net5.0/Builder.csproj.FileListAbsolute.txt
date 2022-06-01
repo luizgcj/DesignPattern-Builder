@@ -1,0 +1,16 @@
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Projetos_CSharp\Builder\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Projetos_CSharp\Builder\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
